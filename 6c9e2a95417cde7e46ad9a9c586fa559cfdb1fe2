@@ -16,6 +16,24 @@
       "message": "Don\u0027t we already have these changes?",
       "revId": "6c9e2a95417cde7e46ad9a9c586fa559cfdb1fe2",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4c39aceb_07804814",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1393
+      },
+      "writtenOn": "2021-09-26T11:43:22Z",
+      "side": 1,
+      "message": "https://github.com/AICP/packages_apps_WallpaperPicker2/commit/3f41902ecae3ad8ff5ba566938418861e7071e47",
+      "parentUuid": "52421dc3_0381d846",
+      "revId": "6c9e2a95417cde7e46ad9a9c586fa559cfdb1fe2",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
